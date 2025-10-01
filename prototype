@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="eng">
+<head>
+  <meta charset="UTF-8">
+  <title>Mon Profil</title>
+  <link rel="stylesheet" a href="index.css" > 
+</head>
+<body>
+
+
+  <header>
+    <h1>wadie el-allly</h1>
+    <img src="https://i.pinimg.com/1200x/aa/31/bf/aa31bf1d064753c89b35014a1c537683.jpg" alt="Nicolas barella" width="120px">
+  </header>
+
+
+  <section>
+    <h2>À propos</h2>
+    <p>Je suis un étudiant passionné par le développement web. J'aime apprendre de nouvelles technologies et créer des projets interactifs. 
+    Curieux et motivé, je cherche à m'améliorer chaque jour dans ce domaine fascinant.</p>
+  </section>
+
+
+  <section>
+    <h2>Informations personnelles</h2>
+    <ul>
+      <li>age:19 years old</li>
+      <li>Adresse: mesnana tangier</li>
+      <li>Email : jean.dupont@email.com</li>
+      <li>Téléphone : 06 12 34 56 78</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>skills</h2>
+    <table border="1">
+      <tr>
+        <th>Technologie</th>
+        <th>Niveau</th>
+      </tr>
+      <tr>
+        <td>HTML</td>
+        <td>Avancé</td>
+      </tr>
+      <tr>
+        <td>CSS</td>
+        <td>Intermédiaire</td>
+      </tr>
+      <tr>
+        <td>JavaScript</td>
+        <td>Débutant</td>
+      </tr>
+    </table>
+  </section>
+
+  
+  <section>
+    <h2>free time</h2>
+    <ul>
+      <li>reading</li>
+      <li>walking</li>
+      <li>football</li>
+    </ul>
+  </section>
+
+
+  <footer>
+    <p>Mon GitHub : <a href="https://github.com/ouadieelallaly-netizen/index0.html.git" target="_blank">github.com/wadie el-allaly></a></p>
+  </footer>
+
+</body>
+</html>
